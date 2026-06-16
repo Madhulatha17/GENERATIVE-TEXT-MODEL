@@ -40,4 +40,5 @@ Google Colab
 
 # OUTPUT
 
+<img width="1455" height="491" alt="Image" src="https://github.com/user-attachments/assets/c2ca579f-c020-4aac-a5ae-337bfed24f85" />
 
